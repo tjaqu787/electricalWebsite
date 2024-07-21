@@ -2,8 +2,8 @@
 title: "Common Repairs And Troubleshooting"
 excerpt: "The three most common issues we see are lights not working, broken plugs, and breakers tripping."
 filename: "repairs-and-troubleshooting"
-ogImage: "/assets/services/picture.jpg"
-url: "/assets/services/picture.jpg"
+ogImage: "favicon.png"
+url: "favicon.png"
 published: True
 ---
 

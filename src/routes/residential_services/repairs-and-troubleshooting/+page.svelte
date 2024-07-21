@@ -7,13 +7,13 @@
   <svelte:head>
     <meta name="title" content="Common Repairs And Troubleshooting">
     <meta name="description" content="Lights not working? Broken plugs? Breakers tripping?">
-    <meta property="og:image" content="/assets/services/picture.jpg">
+    <meta property="og:image" content="favicon.png">
   </svelte:head>
   
   <!-- DaisyUI Container -->
   <div class="container mx-auto p-6">
     <!-- Cover Image -->
-    <img src="/assets/services/picture.jpg" alt="Common Repairs And Troubleshooting" class="w-full h-auto mb-4 rounded-lg shadow-md">
+    <img src="favicon.png" alt="Common Repairs And Troubleshooting" class="w-full h-auto mb-4 rounded-lg shadow-md">
   
     <!-- Page Title -->
     <h1 class="text-4xl font-bold mb-4">Common Repairs And Troubleshooting</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Data & Low Voltage Wiring"
 excerpt: ""
-coverImage: "/assets/services/picture.jpg"
+coverImage: "favicon.png"
 filename: "data-wiring"
-ogImage: "/assets/services/picture.jpg"
-url: "/assets/services/picture.jpg"
+ogImage: "favicon.png"
+url: "favicon.png"
 published: True
 ---
 

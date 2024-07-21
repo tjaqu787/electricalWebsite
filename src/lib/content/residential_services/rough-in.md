@@ -2,8 +2,8 @@
 title: "Rough-In Service"
 excerpt: "The electrical rough-in process involves installing all electrical boxes, wiring, and other infrastructure components before the walls are closed."
 filename : "rough-in"
-ogImage: "/assets/services/picture.jpg"
-url: "/assets/services/picture.jpg"
+ogImage: "favicon.png"
+url: "favicon.png"
 published: True
 ---
 ## What is an Electrical Rough-In?

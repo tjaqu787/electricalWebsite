@@ -1,10 +1,10 @@
 ---
 title: "Bathroom Fans"
 excerpt: "Bathroom fans commonly need to be replaced ~15 years its something that is quick "
-coverImage: "/assets/services/picture.jpg"
+coverImage: "favicon.png"
 filename: "bathroom-fans"
-ogImage: "/assets/services/picture.jpg"
-url: "/assets/services/picture.jpg"
+ogImage: "favicon.png"
+url: "favicon.png"
 published: True
 ---
 

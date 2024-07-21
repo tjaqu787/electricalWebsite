@@ -1,10 +1,10 @@
 ---
 title: "Lighting"
 excerpt: ""
-coverImage: "/assets/services/picture.jpg"
+coverImage: "favicon.png"
 filename: "lighting"
-ogImage: "/assets/services/picture.jpg"
-url: "/assets/services/picture.jpg"
+ogImage: "favicon.png"
+url: "favicon.png"
 published: True
 ---
 # Lighting Services
