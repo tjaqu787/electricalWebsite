@@ -4,7 +4,7 @@
   
     export let buttonLabel: string;
   
-    const isOpen = writable(false);
+    const isOpen = writable(true);
     const formData = writable({
       name: '',
       email: '',
