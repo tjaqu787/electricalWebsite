@@ -11,3 +11,8 @@ import TopBar from '$lib/TopBar.svelte';
     <slot />
   </main>
 </div>
+
+<style>
+  div {
+    background-color: orange;
+  }</style>
