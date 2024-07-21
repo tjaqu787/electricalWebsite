@@ -12,7 +12,9 @@ import TopBar from '$lib/TopBar.svelte';
   </main>
 </div>
 
-<style>
-  div {
-    background-color: orange;
-  }</style>
+
+<style lang="postcss">
+  :global(html) {
+    background-color: theme(colors.gray.100);
+  }
+</style>

@@ -115,7 +115,7 @@
         <div class="banner bg-base-200 p-10">
         </div>
   
-  <style>
+<style lang="postcss">
     .card-body {
       display: flex;
       align-items: center;

@@ -24,7 +24,10 @@
   });
 </script>
 
-<style>
+<style lang="postcss">
+  :global(html) {
+    background-color: theme(colors.gray.100);
+  }
   .banner, .cta {
     padding: 1.25rem;
   }
