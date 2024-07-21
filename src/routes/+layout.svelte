@@ -2,6 +2,7 @@
 
 import "../app.css";
 import TopBar from '$lib/TopBar.svelte';
+import Footer from '$lib/Footer.svelte'
 </script>
 
 <div class="layout">
@@ -10,6 +11,7 @@ import TopBar from '$lib/TopBar.svelte';
 <main class="container mx-auto">
     <slot />
   </main>
+  <Footer/>
 </div>
 
 

@@ -67,43 +67,44 @@
         </div>
       </div>
     </div>
-
     <!-- Value Prop -->
-    <div class="carousel w-full">
-      <div class="card w-full bg-base-100 shadow-xl">
-        <div class="card-body">
-          <h2 class="card-title">Trusted Service</h2>
-          <p>We have more than 10 years of electrical experience under our belt.</p>
-          <div class="card-side">
-            {#if imageLoaded[1]}
-            <img src={images[1].src} alt={images[1].alt} width={images[1].width} height={images[1].height} />
-            {/if}
-          </div>
-        </div>
-      </div>
-
-      <div class="card w-full bg-base-100 shadow-xl">
-        {#if imageLoaded[2]}
-          <img src={images[2].src} alt={images[2].alt} width={images[2].width} height={images[2].height} />
-        {/if}
-        <div class="card-body">
-          <h2 class="card-title">The Power of Experience</h2>
-          <p>We&apos;re here to solve your electrical problems with expertise and efficiency.</p>
-        </div>
-      </div>
-
-      <div class="card w-full bg-base-100 shadow-xl">
-        <div class="card-body">
-          <h2 class="card-title">Convinience Mastered</h2>
-            <p>We offer evening and weekend appointments to accommodate your busy schedule, ensuring you never have to compromise on your time.</p>
-          {#if imageLoaded[3]}
-            <img src={images[3].src} alt={images[3].alt} width={images[3].width} height={images[3].height} />
+    
+    <div class="hero bg-base-100 shadow-xl">
+      <div class="hero-content flex-col lg:flex-row">
+        {#if imageLoaded[1]}
+          <img src={images[1].src} alt={images[1].alt} width={images[1].width} height={images[1].height} class="max-w-sm rounded-lg shadow-2xl" />
           {/if}
+        <div>
+          <h2 class="text-2xl font-bold">Convenience Mastered</h2>
+          <p class="py-4">We offer evening and weekend appointments to accommodate your busy schedule.</p>
         </div>
       </div>
     </div>
-
-    <!-- Call to Action -->
+    
+    <div class="hero bg-base-100 shadow-xl">
+      <div class="hero-content flex-col lg:flex-row">
+        {#if imageLoaded[2]}
+        <img src={images[2].src} alt={images[2].alt} width={images[2].width} height={images[2].height} class="max-w-sm rounded-lg shadow-2xl" />
+      {/if}
+      <div>
+        <h2 class="text-2xl font-bold">Trusted Service</h2>
+        <p class="py-4">We have more than 10 years of electrical experience under our belt.</p>
+      </div>
+    </div>
+  </div>
+  <div class="hero bg-base-100 shadow-xl">
+    <div class="hero-content flex-col lg:flex-row">
+      {#if imageLoaded[3]}
+        <img src={images[3].src} alt={images[3].alt} width={images[3].width} height={images[3].height} class="max-w-sm rounded-lg shadow-2xl" />
+      {/if}
+      <div>
+        <h2 class="text-2xl font-bold">The Power of Experience</h2>
+        <p class="py-4">We're here to solve your electrical problems with expertise and efficiency.</p>
+      </div>
+    </div>
+  </div>
+      
+      <!-- Call to Action -->
     <div class="cta bg-base-200 flex justify-between items-center">
       <div>
         <h2 class="text-2xl font-bold">Ready to Get Started?</h2>

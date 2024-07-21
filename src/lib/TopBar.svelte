@@ -1,4 +1,5 @@
 <script>
+
     let dropdownOpen = false;
 
     function toggleDropdown() {
@@ -35,7 +36,7 @@
         -->
         <!-- Residential Services Dropdown -->
         <div class="dropdown dropdown-hover">
-            <label class="btn m-1">Residential Services</label>
+            <button class="btn m-1">Residential Services</button>
             <ul class="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
                 <li><a href="/residential_services/bathroom-fans">Bathroom Fans</a></li>
                 <li><a href="/residential_services/data-wiring">Data Wiring</a></li>
@@ -48,7 +49,7 @@
         </div>
         <!-- Commercial Services Dropdown -->
         <div class="dropdown dropdown-hover">
-            <label class="btn m-1">Pricing</label>
+            <button class="btn m-1">Pricing</button>
             <ul class="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
                 <li><a href="/pricing">Pricing</a></li>
             </ul>
