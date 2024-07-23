@@ -1,5 +1,6 @@
   <script>
-    import PopupForm from '$lib/PopUpForm.svelte';
+    import PopUpForm from '$lib/PopUpForm.svelte';
+import PopupForm from '$lib/PopUpForm.svelte';
 
   </script>
   
@@ -12,8 +13,6 @@
   
   <!-- DaisyUI Container -->
   <div class="container mx-auto p-6">
-    <!-- Cover Image -->
-    <img src="/rough-in.png" alt="Rough-In Service" class="w-full h-auto mb-4 rounded-lg shadow-md">
   
     <!-- Page Title -->
     <h1 class="text-4xl font-bold mb-4">Rough-In Service</h1>
@@ -23,6 +22,7 @@
       <div class="card-body">
         <h2 class="card-title text-2xl font-semibold mb-2">What is an Electrical Rough-In?</h2>
         <p class="mb-4">The electrical rough-in process involves installing all electrical boxes, wiring, and other infrastructure components before the walls are closed with drywall. This is a critical stage in any renovation, as it lays the groundwork for all future electrical elements, including outlets, switches, light fixtures, and appliances.</p>
+        <PopupForm  buttonLabel ="Contact for a Quote"/>
       </div>
     </div>
     <div class="divider"/>
@@ -48,7 +48,7 @@
           <p class="mb-4">Before the walls are closed up, an inspection by a city building inspector is often required to ensure all installations meet electrical codes and safety standards.</p>
         </div>
       </div>
+      <PopUpForm buttonLabel="Contact for a Quote"/>
     </div>
-    
   </div>
   
