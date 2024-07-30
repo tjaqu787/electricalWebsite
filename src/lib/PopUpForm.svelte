@@ -36,7 +36,6 @@
 <input type="checkbox" id="my_modal_7" class="modal-toggle" bind:checked={$isOpen} />
 <div class="modal">
   <div class="modal-box">
-    <h2 class="text-xl font-bold mb-4">Input Form</h2>
     <form on:submit={handleSubmit}>
       <div class="mb-4">
         <label class="block text-gray-700 mb-2" for="name">Name</label>

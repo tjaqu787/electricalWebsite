@@ -7,7 +7,7 @@
   <!-- Meta Information -->
   <svelte:head>
     <meta name="title" content="Bathroom Fans">
-    <meta name="description" content="Bathroom fans commonly need to be replaced ~15 years. It's something that is quick.">
+    <meta name="description" content="Bathroom fans commonly need to be replaced ~15 years. It's something that is quick but can be a pain.">
     <meta property="og:image" content="favicon.png">
   </svelte:head>
   <!-- DaisyUI Container -->
