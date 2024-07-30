@@ -5,30 +5,38 @@
 <!-- Posts -->
 <section class="posts">
     {#each data.posts as post}
-        <div class="post">
+        <a href={`/residential_services/${post.filename}`} class="post-link">
             <div class="card bg-base-200 shadow-xl">
                 <div class="card-body">
-					<a href={`/residential_services/${post.filename}`} class="title">{post.title}</a>
+                    <h2 class="title">{post.title}</h2>
                     <p class="description">{post.excerpt}</p>
                 </div>
             </div>
-        </div>
+        </a>
     {/each}
 </section>
 
 <style>
     .posts {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 5px;
         padding: 20px;
     }
 
+    .post-link {
+        text-decoration: none;
+        color: inherit;
+    }
 
     .card {
         padding: 10px;
         border-radius: 8px;
         color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
     }
 
     .title {

@@ -6,7 +6,8 @@
   <!-- Meta Information -->
   <svelte:head>
     <meta name="title" content="Lighting Installation">
-    <meta name="description" content="Our expert lighting services cover everything from potlights and indoor lighting to outdoor security and accent lighting. Enhance your home's aesthetic and functionality with our professional installations and repairs.">    <meta property="og:image" content="favicon.png">
+    <meta name="description" content="We can install anything: potlights, indoor lighting, outdoor security, or accent lighting.">
+    <meta property="og:image" content="favicon.png">
   </svelte:head>
   
  <!-- DaisyUI Container -->

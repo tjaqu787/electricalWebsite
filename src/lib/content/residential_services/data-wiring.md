@@ -1,6 +1,6 @@
 ---
 title: "Data & Low Voltage Wiring"
-excerpt: ""
+excerpt: "Hard Wired Internet, Ethernet, Cameras, Thermostat Wiring"
 coverImage: "favicon.png"
 filename: "data-wiring"
 ogImage: "favicon.png"

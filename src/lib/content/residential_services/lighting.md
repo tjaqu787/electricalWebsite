@@ -1,6 +1,6 @@
 ---
 title: "Lighting"
-excerpt: ""
+excerpt: "We can install anything: potlights, indoor lighting, outdoor security, or accent lighting."
 coverImage: "favicon.png"
 filename: "lighting"
 ogImage: "favicon.png"

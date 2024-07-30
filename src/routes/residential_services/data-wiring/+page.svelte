@@ -9,7 +9,7 @@
     <meta name="title" content="Data & Low Voltage Wiring">
     <meta name="description" content="Hard Wired Internet, Ethernet, Cameras, Thermostat Wiring">
     <!-- Meta tag for Thermostat Wiring -->
-    <meta name="description" content="Get professional installation of smart thermostats for precise temperature control. We tie into existing HVAC systems and set up mobile app integration for remote control.">
+    <meta name="description" content="Get professional installation of smart thermostats, We tie into existing HVAC systems and set up mobile app integration for remote control.">
 
     <!-- Meta tag for Wi-Fi Mesh Networking -->
     <meta name="description" content="Eliminate Wi-Fi dead zones with Wi-Fi mesh networking solutions. We optimize Wi-Fi mesh systems for maximum coverage and speed, integrating with your existing network infrastructure.">
