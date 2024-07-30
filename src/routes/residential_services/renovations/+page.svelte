@@ -6,9 +6,8 @@ import PopupForm from '$lib/PopUpForm.svelte';
   
   <!-- Meta Information -->
   <svelte:head>
-    <meta name="title" content="Rough-In Service">
-    <meta name="description" content="The electrical rough-in process involves installing all electrical boxes, wiring, and other infrastructure components before the walls are closed.">
-    <meta property="og:image" content="favicon.png">
+    <meta name="title" content="Electrician for Renovations">
+    <meta name="description" content="Most renovations need electrical work including boxes and wiring while the walls are open.">
   </svelte:head>
   
   <!-- DaisyUI Container -->

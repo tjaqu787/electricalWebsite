@@ -26,21 +26,21 @@
   <div class="card bg-base-100 shadow-xl mb-4">
     <div class="card-body">
       <h2 class="text-2xl font-semibold mb-2">Lights Not Working</h2>
-      <p>One of the most common issues homeowners face when their lights stop working is faulty switches. Switches can wear out or become loose, leading to intermittent or complete loss of function. On the funnier side, you'd be surprised how often we get called out to troubleshoot broken lights only to find out the lightbulbs are burnt out.</p>
+      <p>One of the most common calls we get is for lights that have stopped working. Almost always this is just a faulty dimmer switch leading to intermittent or complete loss of function. On the funnier side, you'd be surprised how often we get called out to troubleshoot broken lights only to find out the lightbulbs are burnt out.</p>
     </div>
   </div>
 
   <div class="card bg-base-100 shadow-xl mb-4">
     <div class="card-body">
       <h2 class="text-2xl font-semibold mb-2">Plugs Are Broken Or Not Working</h2>
-      <p>Various issues can cause plugs to malfunction, but in the end, the plug usually needs to be replaced. Broken or non-functional plugs can be a significant inconvenience and a potential safety hazard in any home.</p>
+      <p>Various issues can cause plugs to malfunction, but in the end, the plug usually needs to be replaced. The tricky part is figuring out which plug died. We can usually use a plug tester to find the issue and replace the plug.</p>
     </div>
   </div>
 
   <div class="card bg-base-100 shadow-xl mb-4">
     <div class="card-body">
       <h2 class="text-2xl font-semibold mb-2">Breakers Tripping</h2>
-      <p>Frequent breaker trips can be a sign of underlying electrical issues that need attention. This common problem can be caused by overloaded circuits, short circuits, or faulty appliances. If you can't piece together what is causing the trip, you should consider calling an electrician to take a look.</p>
+      <p>Frequent breaker trips can be a sign of a more serious electrical issue that need attention. This common problem can be caused by overloaded circuits, short circuits, improperly done electrical work, or rarely faulty appliances. If you can't piece together what is causing the trip based off what you're turning on and off, you should consider calling an electrician to take a look.</p>
     </div>
   </div>
 

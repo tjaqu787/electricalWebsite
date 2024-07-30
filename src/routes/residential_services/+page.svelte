@@ -8,7 +8,7 @@
         <div class="post">
             <div class="card bg-base-200 shadow-xl">
                 <div class="card-body">
-					<a href={`/residential_services/${post.title}`} class="title">{post.title}</a>
+					<a href={`/residential_services/${post.filename}`} class="title">{post.title}</a>
                     <p class="description">{post.excerpt}</p>
                 </div>
             </div>
