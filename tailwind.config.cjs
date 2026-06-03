@@ -1,8 +1,11 @@
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+      },
+    },
   },
-  plugins: [require('daisyui')],
-  daisyui: {    themes: ['light']}
+  plugins: [],
 }

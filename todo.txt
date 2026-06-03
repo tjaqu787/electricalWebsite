@@ -1,0 +1,16 @@
+SEO TODO — FusedBytes Electric
+================================
+
+1. Replace YOUR-DOMAIN.com in static/robots.txt with your real domain
+2. Replace YOUR-DOMAIN.com in static/sitemap.xml with your real domain (13 occurrences)
+3. Replace xxx-xxx-xxxx with your real phone number in:
+   - src/lib/Footer.svelte
+   - src/routes/residential_services/emergency/+page.svelte
+   - src/routes/+layout.svelte (meta description)
+   - src/routes/+page.svelte (meta description)
+4. Add your physical address to src/lib/Footer.svelte and the LocalBusiness schema
+   in src/routes/+layout.svelte once you have one — this is the #1 local SEO signal
+5. Submit your sitemap to Google Search Console:
+   https://search.google.com/search-console/
+6. Submit your sitemap to Bing Webmaster Tools:
+   https://www.bing.com/webmasters/

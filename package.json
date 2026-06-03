@@ -27,7 +27,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^4.12.10",
 		"marked": "^13.0.2",
 		"mdsvex": "^0.11.2",
 		"rehype-slug": "^6.0.0",
